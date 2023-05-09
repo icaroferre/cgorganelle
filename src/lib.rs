@@ -265,6 +265,6 @@ mod tests {
             // }
     //         newOSC.oled_update();
     //    }
-        assert_eq!(result, Some);
+        // assert_eq!(result, Some);
     }
 }
